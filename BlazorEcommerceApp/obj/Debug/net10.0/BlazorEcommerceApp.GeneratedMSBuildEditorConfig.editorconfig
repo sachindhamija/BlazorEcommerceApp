@@ -186,6 +186,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Applications/Projects/BlazorEcommerceApp/BlazorEcommerceApp/Components/Pages/CategoryPages/CategoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYXRlZ29yeVBhZ2VzL0NhdGVnb3J5TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Applications/Projects/BlazorEcommerceApp/BlazorEcommerceApp/Components/Pages/CategoryPages/CategoryUpsert.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYXRlZ29yeVBhZ2VzL0NhdGVnb3J5VXBzZXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Applications/Projects/BlazorEcommerceApp/BlazorEcommerceApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
